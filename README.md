@@ -2,7 +2,7 @@
 
 This repository contains some of the machine learning programs I have developed during my studies.
 
-I have analised the following datasets so far:
+I have analysed the following datasets so far:
 - Iris Data Set;
 - Wine Data Set;
 - Glass Identification Data Set;
