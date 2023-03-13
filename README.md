@@ -8,4 +8,4 @@ I have analised the following datasets so far:
 - Glass Identification Data Set;
 - Sales_Transactions_Dataset_Weekly Data Set.
 
-I have used techniques like clusterizing and MLP Artificial Neural Networks. 
+I have used techniques like clustering and MLP Artificial Neural Networks. 
